@@ -1,0 +1,29 @@
+body{
+    width:800px;
+    margin: 0 auto !important;
+    background: dimgrey;
+}
+
+.navigation .btn-primary{
+    width: 100%;
+}
+
+.nav-bar-new{
+    background: #333333;
+}
+
+.content{
+    background: #333333;
+}
+
+.img-sec{
+    border-right: 2px solid #ffffff;
+}
+.footer{
+    text-align: center;
+    color: #ffffff;
+    background: #333333;
+    padding: 40px;
+    border-top: 2px solid #ffffff;
+    border-bottom: 2px solid #ffffff;
+}
